@@ -20,12 +20,11 @@ and make it prettier by adding falling snowflakes.
 ## Project structure
 
 ```text
-index.html          # main page
-css/
-  styles.css        # basic styling
-js/
-  main.js           # countdown logic
-  snowstorm.js      # third-party snow effect script (not included here)
+index.html     # main page
+styles.css     # basic styling
+main.js        # countdown logic
+snowstorm.js   # third-party snow effect script (not included here)
+
 Note: due to licensing considerations the actual snowstorm.js file is not
 stored in this repository. You can download it from the original source or
 replace it with any other snow effect library.
